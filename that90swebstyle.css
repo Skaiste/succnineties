@@ -1,0 +1,68 @@
+/*90s style tho
+*/
+
+
+/* Start http://www.cursors-4u.com */ 
+
+body {
+	height: 700px;
+	display: inline-block;
+	display: -webkit-flex;
+    display: flex;
+}
+
+body, a:hover {cursor: url(http://ani.cursors-4u.net/symbols/sym-8/sym761.ani), url(http://ani.cursors-4u.net/symbols/sym-8/sym761.png), progress !important;} /* End http://www.cursors-4u.com */
+
+h1:hover {
+ font-size: 120px;
+}
+
+h2:hover {
+	font-size:220px;
+}
+
+
+#header {
+
+}
+
+#sidebar {
+	font-size: 28px;
+	border: 2px dashed;
+	border-color: black;
+	height: 400px;
+	width: 150px;
+	color: blue;
+	text-shadow: 4px 2px #ff0000;
+
+}
+
+#sidebar img {
+	position: absolute;
+	z-index: 4;
+	max-width: 150px;
+	min-height: 100px;
+	
+}
+
+#webBodyLeft {
+	background-color: green;
+}
+
+#webBodyRight {
+	color: purple;
+	font-style: italic;
+}
+
+
+#footer {
+
+	
+}
+
+#const img {
+	position: absolute;
+	padding-top: 10%;
+	width: 100%;
+	z-index: 5;
+}
