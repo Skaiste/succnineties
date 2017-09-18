@@ -1,4 +1,4 @@
-# [Stirling CS club nineties event](https://skaiste.github.io/succnineties/)
+# [Stirling University Computer Clubs Give It A Go: 90's challenge](https://skaiste.github.io/succnineties/)
 
 Hey guys, welcome to the succ 90’s website GIAG.
 The idea as I’m sure you know is to build a website as tacky and functional as possible that reflects the pure genius some back in the 90s did. Here is a real basic webpage illustrating some features and providing you with a template to start from. Of course whoever has any experience in HTML, CSS and JS etc can just jump right in and work from scratch. But the template is here for anyone without any experience and below a basic explanation of the tags to get you started.
@@ -25,10 +25,9 @@ So if we look at the code below, both a div tag with an id of ‘sidebar’ and 
 
 So these are the properties of sidebar. Sidebar is used as an unordered list type menu. So the menu to the left is the sidebar. We can see here it's font size, that it has a border made of little dashes, its colour etc. These css properties along with any other css property can go inside any #id. Hopefully this helps you towards building your tacky webpage. 
 Write code, play around, try connecting a new html div to css.
-
 ```css
 #sidebar {
-  font-size: 28px;
+	font-size: 28px;
 	border: 2px dashed;
 	border-color: black;
 	height: 400px;
